@@ -12,7 +12,7 @@ Android Button which can morph to Circular Progress
 
 ### Integration
 
-The lib is available on Maven Central, you can find it with [Gradle, please]
+The lib is available on JCenter, you can find it with [Gradle, please]
 
 ```
 dependencies {
